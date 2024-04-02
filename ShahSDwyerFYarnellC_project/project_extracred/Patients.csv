@@ -1,0 +1,7 @@
+idNum, firstName, lastName, collegem phoneNum,Professor,Student,TA
+1, Faith, Dwyer, Northeastern University, 1234567891, FALSE, TRUE, FALSE
+2, Sanaya, Shah, Northeastern University, 2345678901, FALSE, TRUE, FALSE
+3, Chloe, Yarnell, Northeastern University, 3456789012, FALSE, TRUE, FALSE
+4,Ethan, Kim, Northeastern University, 1234123412, FALSE, TRUE, FALSE
+
+

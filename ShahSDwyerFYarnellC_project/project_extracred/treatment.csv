@@ -1,0 +1,5 @@
+patient, date,type
+1, 2023-06-07, Shot
+2, 2023-06-07, OTCMeds
+3, 2023-06-10, PrescriptionMeds
+4, 2023-06-011, OTCMeds

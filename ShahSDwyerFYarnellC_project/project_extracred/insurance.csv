@@ -1,0 +1,6 @@
+provider, policyNum, copay, patient
+Cigna, 15734378, 20, 3
+Blue Cross Blue Shield, 23894, 0, 2
+UnitedHealthcare, 1239862, 25, 1
+None, NULL, NULL, 4
+
